@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...java 
 - 🌱 I’m currently learning ...java
 - 💞️ I’m looking to collaborate on ...java projects 
-- 📫 How to reach me ... devangsharma14feb@gmail.com
+- 📫 How to reach me ... 
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...
 

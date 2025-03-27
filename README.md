@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Devang559
 - 👀 I’m interested in ...App Development 
 - 🌱 I’m currently learning ... javascript, Framework react-native 
-- 💞️ I’m looking to collaborate on ...java projects 
+- 💞️ I’m looking to collaborate on ... react-native projects 
 - 📫 How to reach me ... 
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...

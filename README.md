@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Devang559
-- 👀 I’m interested in ...java 
-- 🌱 I’m currently learning ...java
+- 👀 I’m interested in ...App Development 
+- 🌱 I’m currently learning ... javascript, Framework react-native 
 - 💞️ I’m looking to collaborate on ...java projects 
 - 📫 How to reach me ... 
 - 😄 Pronouns: ...he/him

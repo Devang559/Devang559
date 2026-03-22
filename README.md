@@ -18,9 +18,19 @@
 * 🌱 Currently improving **Modern Android Architecture & Scalable Backend Design**
 * 🔐 Strong understanding of **JWT Authentication & Spring Security**
 * 💡 Interested in **DSA (Java) & System Design**
-* 📫 Reach me at
-  **[devangsharma14feb@gmail.com](mailto:devangsharma14feb@gmail.com)**
-  **[devang_sharma2005@zohomail.in](mailto:devang_sharma2005@zohomail.in)**
+## 📫 Reach Me At
+
+<p align="left">
+  <a href="mailto:devangsharma14feb@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Devang%20Sharma-red?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+<p align="left">
+  <a href="mailto:devang_sharma2005@zohomail.in">
+    <img src="https://img.shields.io/badge/Zoho-Mail-blue?style=for-the-badge&logo=zoho&logoColor=white">
+  </a>
+</p>
 
 ---
 

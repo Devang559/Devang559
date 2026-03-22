@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:333399&height=220&section=header&text=Devang%20Sharma&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Aspiring%20Backend%20%26%20Android%20Developer&descSize=18&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:333399&height=200&section=header&text=Hi%20%F0%9F%91%8B%2C%20I%27m%20Devang%20Sharma&fontSize=40&fontColor=ffffff" />
 </p>
+
 <h3 align="center">Android & Backend Developer from India 🇮🇳</h3>
 
 <p align="left">

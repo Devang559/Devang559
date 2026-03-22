@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Devang Sharma</h1>
 <h3 align="center">Aspiring Backend & Android Developer | Java & Spring Boot</h3>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:333399&height=200&section=header&text=Devang%20Sharma&fontSize=40&fontColor=ffffff" />
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=devang559&label=Profile%20views&color=0e75b6&style=flat" alt="devang559" />
 </p>

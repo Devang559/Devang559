@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:333399&height=200&section=header&text=Devang%20Sharma&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:333399&height=200&section=header&text=Hi 👋, I'm Devang Sharma&fontSize=40&fontColor=ffffff" />
 <h1 align="center">Hi 👋, I'm Devang Sharma</h1>
 <h3 align="center">Aspiring Backend & Android Developer | Java & Spring Boot</h3>
 

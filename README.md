@@ -5,8 +5,8 @@
   <b>🎮👾 Aspiring Backend & Android Developer | Java & Spring Boot 👾🎮</b>
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=devang559&label=Profile%20views&color=0e75b6&style=flat" alt="devang559" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F700FF&center=true&vCenter=true&lines=Aspiring+Backend+Developer;Android+Developer;Java+%26+Spring+Boot+Enthusiast" />
 </p>
 
 ---

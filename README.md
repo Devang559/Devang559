@@ -20,10 +20,6 @@
 * 💡 Interested in **DSA (Java) & System Design**
 ## 📫 Reach Me At
 
-## 📫 Reach Me At
-
-## 📫 Reach Me At
-
 <p align="left">
   <a href="mailto:devangsharma14feb@gmail.com">
     <img src="https://img.shields.io/badge/🍄%20Gmail-Player%201-red?style=for-the-badge">

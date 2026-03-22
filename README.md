@@ -1,7 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:333399&height=200&section=header&text=Hi%20%F0%9F%91%8B%2C%20I%27m%20Devang%20Sharma&fontSize=40&fontColor=ffffff" />
 </p>
-<h3 align="center">Aspiring Backend & Android Developer | Java & Spring Boot</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:dd2476&height=220&section=header&text=Devang%20Sharma&fontSize=45&fontColor=ffffff&animation=blinking&desc=Aspiring%20Backend%20%26%20Android%20Developer%20%7C%20Java%20%26%20Spring%20Boot&descSize=18&descAlignY=70" />
+</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=devang559&label=Profile%20views&color=0e75b6&style=flat" alt="devang559" />

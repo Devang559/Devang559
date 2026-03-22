@@ -1,9 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:333399&height=200&section=header&text=Hi%20%F0%9F%91%8B%2C%20I%27m%20Devang%20Sharma&fontSize=40&fontColor=ffffff" />
 </p>
-<p align="center">
-  <b>🎮👾 Aspiring Backend & Android Developer | Java & Spring Boot 👾🎮</b>
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F700FF&center=true&vCenter=true&lines=Aspiring+Backend+Developer;Android+Developer;Java+%26+Spring+Boot+Enthusiast" />

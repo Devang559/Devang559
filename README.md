@@ -22,15 +22,17 @@
 
 ## 📫 Reach Me At
 
+## 📫 Reach Me At
+
 <p align="left">
   <a href="mailto:devangsharma14feb@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20Gmail-Contact%20Me-ff4b4b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000">
+    <img src="https://img.shields.io/badge/🍄%20Gmail-Player%201-red?style=for-the-badge">
   </a>
 </p>
 
 <p align="left">
   <a href="mailto:devang_sharma2005@zohomail.in">
-    <img src="https://img.shields.io/badge/📨%20Zoho-Mail-00C853?style=for-the-badge&logo=zoho&logoColor=white&labelColor=000000">
+    <img src="https://img.shields.io/badge/⭐%20Zoho-Player%202-yellow?style=for-the-badge">
   </a>
 </p>
 

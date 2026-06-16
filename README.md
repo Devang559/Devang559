@@ -26,7 +26,7 @@
 public class Devang extends Developer {
 
     private final String[] focus     = { "Backend APIs", "Android Architecture" };
-    private final String[] learning  = { "Modern Android (Jetpack)", "System Design" };
+    private final String[] learning  = { "Modern Android (React-Native)", "System Design" };
     private final String[] strengths = { "Spring Security", "JWT Auth", "Clean Code" };
     private final String   coffee    = "required ☕";
 

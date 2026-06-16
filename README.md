@@ -1,97 +1,150 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:333399&height=200&section=header&text=Hi%20%F0%9F%91%8B%2C%20I%27m%20Devang%20Sharma&fontSize=40&fontColor=ffffff" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F700FF&center=true&vCenter=true&lines=Aspiring+Backend+Developer;Android+Developer;Java+%26+Spring+Boot+Enthusiast" />
-</p>
+```
+╔══════════════════════════════════════════════════════════════╗
+║  ~/devang-sharma  ❯ whoami                                   ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=devang559&label=Profile%20views&color=0e75b6&style=flat" alt="devang559" />
-</p>
+# Devang Sharma
 
----
+**`Backend Engineer · Android Developer · DSA Enthusiast`**
 
-### 👨‍💻 About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00F5D4&center=true&vCenter=true&width=500&lines=Architecting+Scalable+Backend+Systems;Building+Android+Apps+with+Clean+Architecture;Securing+APIs+with+Spring+Security+%2B+JWT;Solving+DSA+in+Java%2C+One+Problem+at+a+Time)](https://git.io/typing-svg)
 
-* 📱 Passionate about **Android Development & Backend Systems**
-* 🌱 Currently improving **Modern Android Architecture & Scalable Backend Design**
-* 🔐 Strong understanding of **JWT Authentication & Spring Security**
-* 💡 Interested in **DSA (Java) & System Design**
-## 📫 Reach Me At
+<img src="https://komarev.com/ghpvc/?username=devang559&style=flat-square&color=00F5D4&label=profile+views" />
 
-<p align="left">
-  <a href="https://mail.google.com/mail/?view=cm&to=devangsharma14feb@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Devang%20Sharma-red?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://mail.zoho.in/zm/#compose?to=devang_sharma2005@zohomail.in">
-    <img src="https://img.shields.io/badge/Zoho-Mail-green?style=for-the-badge&logo=zoho&logoColor=white">
-  </a>
-</p>
+</div>
 
 ---
 
-### 🤝 Connect with Me
+<div align="center">
 
-<p align="left">
-  <a href="https://github.com/devang559" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github" />
-  </a>
-</p>
+```java
+// Devang.java
 
----
+public class Devang extends Developer {
 
-### 🛠 Languages
+    private final String[] focus     = { "Backend APIs", "Android Architecture" };
+    private final String[] learning  = { "Modern Android (Jetpack)", "System Design" };
+    private final String[] strengths = { "Spring Security", "JWT Auth", "Clean Code" };
+    private final String   coffee    = "required ☕";
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-</p>
+    @Override
+    public String toString() {
+        return "Turning ideas into scalable, secure software.";
+    }
+}
+```
 
----
-
-### ⚙️ Frameworks & Technologies
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-</p>
-
-* 🌱 **Spring Boot**
-* 🔐 **Spring Security & JWT Authentication**
-* 📱 **React Native**
-* 🧠 **Data Structures & Algorithms (Java)**
-* 🎮 **Raylib (Game Development)**
+</div>
 
 ---
 
-### 🗄️ Databases
+## ` $ ls -la ./stack`
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-</p>
+<table>
+<tr>
+<td valign="top" width="33%">
 
-* 💾 **SQL**
-* 🐘 **PostgreSQL**
+### 🗣 Languages
+```
+├── Java          ██████████  ★★★★★
+├── JavaScript    ███████░░░  ★★★☆☆
+├── C             ██████░░░░  ★★★☆☆
+├── HTML / CSS    ████████░░  ★★★★☆
+└── SQL           ███████░░░  ★★★☆☆
+```
+
+</td>
+<td valign="top" width="33%">
+
+### ⚙️ Backend & Mobile
+```
+├── Spring Boot      [active]
+├── Spring Security  [active]
+├── JWT Auth         [active]
+├── React Native     [learning]
+└── Raylib           [hobby]
+```
+
+</td>
+<td valign="top" width="33%">
+
+### 🗄 Databases
+```
+├── MySQL       [production]
+├── PostgreSQL  [production]
+└── SQL Design  [active]
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🚀 What I'm Working On
+## ` $ cat ./current-work.log`
 
-* 📱 Android apps using modern architecture
-* 🔐 Secure backend APIs with Spring Boot
-* ⚡ Improving DSA problem-solving skills
+```log
+[ACTIVE]   📱  Android apps — Jetpack Compose + MVVM + Clean Architecture
+[ACTIVE]   🔐  Secure REST APIs — Spring Boot + JWT + Role-Based Access Control
+[ACTIVE]   ⚡  DSA Grind — LeetCode in Java, daily commits
+[NEXT]     🧩  System Design fundamentals — HLD & LLD
+```
 
 ---
 
+## ` $ cat ./github-stats.json`
 
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=devang559&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=FF2D78&text_color=8892B0" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devang559&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=8892B0" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=devang559&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5D4&fire=FF2D78&currStreakLabel=00F5D4" />
+
+</div>
+
+---
+
+## ` $ cat ./contact.sh`
+
+```bash
+#!/bin/bash
+# Preferred ways to reach Devang
+
+echo "📧 Gmail   →  devangsharma14feb@gmail.com"
+echo "📧 Zoho    →  devang_sharma2005@zohomail.in"
+echo "🐙 GitHub  →  github.com/devang559"
+```
+
+<div align="left">
+
+[![Gmail](https://img.shields.io/badge/Gmail-devangsharma14feb-0D1117?style=flat-square&logo=gmail&logoColor=FF2D78)](mailto:devangsharma14feb@gmail.com)
+&nbsp;
+[![Zoho](https://img.shields.io/badge/Zoho-devang__sharma2005-0D1117?style=flat-square&logo=zoho&logoColor=00F5D4)](mailto:devang_sharma2005@zohomail.in)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-devang559-0D1117?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/devang559)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║   "First, solve the problem. Then, write the code."          ║
+║                                          — John Johnson      ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+*Open to collaborations · Always learning · Building in public*
+
+</div>
 
 

@@ -118,6 +118,7 @@ public class Devang extends Developer {
 # Preferred ways to reach Devang
 
 echo "📧 Gmail   →  devangsharma14feb@gmail.com"
+echo "📧 Gmail   →  devangsharma944@gmail.com"
 echo "📧 Zoho    →  devang_sharma2005@zohomail.in"
 echo "🐙 GitHub  →  github.com/devang559"
 ```
@@ -125,6 +126,8 @@ echo "🐙 GitHub  →  github.com/devang559"
 <div align="left">
 
 [![Gmail](https://img.shields.io/badge/Gmail-devangsharma14feb-0D1117?style=flat-square&logo=gmail&logoColor=FF2D78)](mailto:devangsharma14feb@gmail.com)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-devangsharma944-0D1117?style=flat-square&logo=gmail&logoColor=FF2D78)](mailto:devangsharma944@gmail.com)
 &nbsp;
 [![Zoho](https://img.shields.io/badge/Zoho-devang__sharma2005-0D1117?style=flat-square&logo=zoho&logoColor=00F5D4)](mailto:devang_sharma2005@zohomail.in)
 &nbsp;

@@ -1,17 +1,25 @@
 # Hi there, I'm Devang Sharma! 👋
 
-<p align="left">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Devang%20Sharma&fontSize=70&animation=fadeIn&fontAlignY=35" alt="Devang's Banner" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Devang559&color=deepskyblue&style=flat-square" alt="Profile Views" />
 </p>
 
-I am a results-driven **Software Engineer** specializing in **Full-Stack Development, scalable microservices, and AI-integrated systems**[cite: 1]. I bridge the gap between robust, containerized backend architectures and fluid, high-performance mobile user experiences.
+<p align="center">
+  <strong>Software Engineer | Full-Stack Developer | AI Integration Specialist</strong>
+</p>
+
+I am a results-driven **Software Engineer** specializing in **Full-Stack Development, scalable microservices, and AI-integrated systems**. I bridge the gap between robust, containerized backend architectures and fluid, high-performance mobile user experiences.
 
 ---
 
 ### 🚀 What I Do
-*   **Backend & System Design:** Building high-throughput, low-latency microservices using **Java, Spring Boot**, and **Docker**[cite: 1].
-*   **Mobile Development:** Crafting smooth, low-latency cross-platform mobile apps with **React Native**, leveraging advanced animation and state management tools[cite: 1].
-*   **AI Integration:** Designing intelligent applications by embedding Large Language Models (LLMs) into production-level backends[cite: 1].
+*   **Backend & System Design:** Building high-throughput, low-latency microservices using **Java, Spring Boot**, and **Docker**.
+*   **Mobile Development:** Crafting smooth, low-latency cross-platform mobile apps with **React Native**, leveraging advanced animation and state management tools.
+*   **AI Integration:** Designing intelligent applications by embedding Large Language Models (LLMs) into production-level backends.
 
 ---
 
@@ -49,26 +57,25 @@ I am a results-driven **Software Engineer** specializing in **Full-Stack Develop
 ### 💻 Featured Projects
 
 #### ⚙️ Online Code Editor Backend
-*Architected a high-throughput, sandboxed code execution engine.*[cite: 1]
-*   **Backend:** Java, Spring Boot, RESTful APIs[cite: 1]
-*   **DevOps:** Docker, Sandbox Execution[cite: 1]
-*   Utilized **Spring Boot** to dynamically compile, build, and execute multi-language source code[cite: 1].
-*   Containerized runtime environments using **Docker** to enforce strict process isolation, mitigating security risks[cite: 1].
-*   Developed low-latency **RESTful APIs** to programmatically manage container lifecycles and stream real-time logs[cite: 1].
+> *Architected a high-throughput, sandboxed code execution engine.*
+*   **Stack:** `Java` `Spring Boot` `Docker` `RESTful APIs` `Sandbox Execution`
+*   Utilized **Spring Boot** to dynamically compile, build, and execute multi-language source code.
+*   Containerized runtime environments using **Docker** to enforce strict process isolation, mitigating security risks.
+*   Developed low-latency **RESTful APIs** to programmatically manage container lifecycles and stream real-time logs.
 
 #### 🎨 Solvelt: Multimodal AI Math Canvas
-*An AI-powered mathematical assistant processing hand-drawn formulas in under 2 seconds.*[cite: 1]
-*   **Stack:** React Native, Spring Boot, Gemini 1.5 Flash, Shopify Skia, Zustand[cite: 1]
-*   Integrated **Gemini 1.5 Flash LLM** into a **Spring Boot** backend to handle multimodal payload extraction and algorithmic solutions[cite: 1].
-*   Built a highly responsive canvas frontend using **React Native**, **Shopify Skia**, and **Reanimated 3**[cite: 1].
-*   Managed performance-critical client states seamlessly using **Zustand**[cite: 1].
+> *An AI-powered mathematical assistant processing hand-drawn formulas in under 2 seconds.*
+*   **Stack:** `React Native` `Spring Boot` `Gemini 1.5 Flash` `Shopify Skia` `Zustand`
+*   Integrated **Gemini 1.5 Flash LLM** into a **Spring Boot** backend to handle multimodal payload extraction and algorithmic solutions.
+*   Built a highly responsive canvas frontend using **React Native**, **Shopify Skia**, and **Reanimated 3**.
+*   Managed performance-critical client states seamlessly using **Zustand**.
 
 #### 📚 AI Reading & Literacy App
-*A full-stack mobile literacy application hosting an AI-driven text analysis module.*[cite: 1]
-*   **Stack:** React Native, Spring Boot, PostgreSQL, JWT, AI Inference[cite: 1]
-*   Engineered automated feedback loops evaluating oral pronunciation, fluency, and reading comprehension metrics[cite: 1].
-*   Programmed a secure backend with **Spring Boot**, **JWT token-based authentication**, and **PostgreSQL**[cite: 1].
-*   Optimized custom API request pipelines to guarantee sub-second delivery bounds between mobile clients and remote AI inference instances[cite: 1].
+> *A full-stack mobile literacy application hosting an AI-driven text analysis module.*
+*   **Stack:** `React Native` `Spring Boot` `PostgreSQL` `JWT` `AI Inference`
+*   Engineered automated feedback loops evaluating oral pronunciation, fluency, and reading comprehension metrics.
+*   Programmed a secure backend with **Spring Boot**, **JWT token-based authentication**, and **PostgreSQL**.
+*   Optimized custom API request pipelines to guarantee sub-second delivery bounds between mobile clients and remote AI inference instances.
 
 ---
 
@@ -87,8 +94,8 @@ I am a results-driven **Software Engineer** specializing in **Full-Stack Develop
 </p>
 
 *   **LinkedIn:** [linkedin.com/in/devang-sharma-998322334/](https://www.linkedin.com/in/devang-sharma-998322334/)
-*   **Gmail:** [devangsharma944@gmail.com](mailto:devangsharma944@gmail.com)[cite: 1]
+*   **Gmail:** [devangsharma944@gmail.com](mailto:devangsharma944@gmail.com)
 *   **Zoho Mail:** [devang_sharma2005@zohomail.in](mailto:devang_sharma2005@zohomail.in)
-*   **GitHub:** [github.com/Devang559](https://github.com/Devang559)[cite: 1]
+*   **GitHub:** [github.com/Devang559](https://github.com/Devang559)
 
 ***

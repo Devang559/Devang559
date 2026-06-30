@@ -1,34 +1,66 @@
-<div align="center">
+# Devang Sharma
 
-```
+::: {align="center"}
+``` text
 ╔══════════════════════════════════════════════════════════════╗
-║  ~/devang-sharma  ❯ whoami                                   ║
+║  ~/devang-sharma  ❯ whoami                                 ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-# Devang Sharma
+# 👋 Hi, I'm Devang Sharma
 
-![Backend](https://img.shields.io/badge/Backend_Engineer-00F5D4?style=for-the-badge&logoColor=0D1117)
-![Android](https://img.shields.io/badge/Android_Developer-FF2D78?style=for-the-badge&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA_Enthusiast-FFD700?style=for-the-badge&logoColor=0D1117)
+**Java Backend Engineer • Android Developer • AI Enthusiast**
 
-![Profile Views](https://komarev.com/ghpvc/?username=Devang559&style=flat-square&color=00F5D4&label=profile+views)
+Building scalable backend systems with **Spring Boot**, secure APIs with
+**Spring Security & JWT**, and modern Android applications using **React
+Native**.
 
-</div>
+![Backend](https://img.shields.io/badge/Backend_Engineer-00F5D4?style=for-the-badge)
+![Android](https://img.shields.io/badge/Android_Developer-FF2D78?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI_Developer-8A2BE2?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
+![Profile
+Views](https://komarev.com/ghpvc/?username=Devang559&style=flat-square&color=00F5D4)
+:::
 
-<div align="center">
+------------------------------------------------------------------------
 
-```java
-// Devang.java
+## 🚀 About Me
 
+-   💻 Java Backend Developer passionate about scalable software.
+-   📱 Building Android apps with React Native.
+-   🤖 Exploring Spring AI, LLM integrations and System Design.
+-   📚 Daily DSA practice in Java.
+-   ☕ Clean code, secure architecture and continuous learning.
+
+------------------------------------------------------------------------
+
+## 💻 Devang.java
+
+``` java
 public class Devang extends Developer {
 
-    private final String[] focus     = { "Backend APIs", "Android Architecture" };
-    private final String[] learning  = { "Modern Android (React Native)", "System Design" };
-    private final String[] strengths = { "Spring Security", "JWT Auth", "Clean Code" };
-    private final String   coffee    = "required ☕";
+    private final String role = "Backend Engineer";
+
+    String[] backend = {
+        "Spring Boot",
+        "Spring Security",
+        "Spring AI",
+        "REST APIs",
+        "Docker"
+    };
+
+    String[] mobile = {
+        "React Native",
+        "Expo"
+    };
+
+    String[] learning = {
+        "System Design",
+        "Microservices",
+        "Cloud"
+    };
 
     @Override
     public String toString() {
@@ -37,162 +69,118 @@ public class Devang extends Developer {
 }
 ```
 
-</div>
+## 🛠 Tech Stack
 
----
+**Languages**
 
-## `$ ls -la ./stack`
+Java • JavaScript • TypeScript • SQL • C • HTML • CSS
 
-<table>
-<tr>
-<td valign="top" width="33%">
+**Backend**
 
-### 🗣 Languages
+Spring Boot • Spring Security • Spring Data JPA • Hibernate • JWT • REST
+APIs • Spring AI
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+**Mobile**
 
-</td>
-<td valign="top" width="33%">
+React Native • Expo
 
-### ⚙️ Backend & Mobile
+**Database**
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+MySQL • PostgreSQL
 
-</td>
-<td valign="top" width="33%">
+**Tools**
 
-### 🗄 Databases
+Docker • Git • GitHub • Maven • Postman • IntelliJ IDEA • JUnit
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+------------------------------------------------------------------------
 
-### 🛠 Tools
+## 📌 Featured Projects
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+### 🚀 Remote Code Editor Backend
 
-</td>
-</tr>
-</table>
+Real-time collaborative code editor backend with Docker-based sandbox
+execution, WebSockets and secure REST APIs.
 
----
+### 🤖 SolveIt -- AI Math Solver
 
-## `$ cat ./current-work.log`
-
-```log
-[ACTIVE]   📱  Android apps  —  Jetpack Compose + MVVM + Clean Architecture
-[ACTIVE]   🔐  Secure REST APIs  —  Spring Boot + JWT + Role-Based Access Control
-[ACTIVE]   ⚡  DSA Grind  —  LeetCode in Java, daily commits
-[NEXT]     🧩  System Design fundamentals  —  HLD & LLD
-```
-
----
-
-## `$ cat ./featured-projects.json`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🖥️ Remote Code Editor Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-FF6B35?style=flat-square&logoColor=white)
-
-Real-time collaborative code editor backend with sandboxed multi-language execution via Docker containers and WebSocket sync.
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 SolveIt — Multimodal AI Math Canvas
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![AI](https://img.shields.io/badge/LLM_Powered-FF2D78?style=flat-square&logoColor=white)
-
-Draw math problems on a canvas — AI reads and solves them with step-by-step explanations.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+Cross-platform React Native application where users draw mathematical
+expressions and receive AI-powered step-by-step solutions through a
+Spring Boot backend.
 
 ### 📚 AI Reading & Literacy Platform
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-AI-assisted reading platform with progress tracking, comprehension scoring, and secure multi-role auth.
-
-</td>
-<td width="50%" valign="top">
+AI-assisted reading platform with progress tracking, comprehension
+scoring and role-based authentication.
 
 ### ⚡ CodeRunner
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-Mobile-first code execution engine — run JS, Python, Java, C++ from a terminal-style UI with sandboxed Spring Boot backend.
+Mobile-first code execution platform supporting multiple languages using
+Docker containers and Spring Boot.
 
-</td>
-</tr>
-</table>
+------------------------------------------------------------------------
 
----
+## 📈 GitHub Stats
 
-## `$ cat ./github-stats.json`
+```{=html}
+<p align="center">
+```
+`<img src="https://github-readme-stats.vercel.app/api?username=Devang559&show_icons=true&theme=tokyonight"/>`{=html}
+`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devang559&layout=compact&theme=tokyonight"/>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://streak-stats.demolab.com?user=Devang559&theme=tokyonight"/>`{=html}
+```{=html}
+</p>
+```
+## 🏆 GitHub Trophies
 
-<div align="center">
+```{=html}
+<p align="center">
+```
+`<img src="https://github-profile-trophy.vercel.app/?username=Devang559&theme=tokyonight&no-frame=true&row=1&column=7"/>`{=html}
+```{=html}
+</p>
+```
+## 📊 Contribution Graph
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Devang559&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=FF2D78&text_color=8892B0&cache_seconds=1800" />
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devang559&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=8892B0&cache_seconds=1800" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Devang559&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5D4&fire=FF2D78&currStreakLabel=00F5D4" />
-
-</div>
-
----
-
-## `$ cat ./contact.sh`
-
-```bash
-#!/bin/bash
-echo "💼 LinkedIn  →  linkedin.com/in/devang-sharma-998322334"
-echo "📧 Email     →  devangsharma14feb@gmail.com"
-echo "🐙 GitHub    →  github.com/Devang559"
+```{=html}
+<p align="center">
+```
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devang559&theme=tokyo-night"/>`{=html}
+```{=html}
+</p>
 ```
 
-<div align="center">
+------------------------------------------------------------------------
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-devang--sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devang-sharma-998322334/)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-devangsharma14feb-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devangsharma14feb@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Devang559-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Devang559)
+## 🎯 Current Focus
 
-</div>
+-   Spring AI
+-   Docker
+-   System Design
+-   Distributed Systems
+-   Advanced Spring Boot
+-   Android Architecture
+-   Clean Architecture
 
----
+------------------------------------------------------------------------
 
-<div align="center">
+## 📫 Connect With Me
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║  "Turning ideas into scalable, secure software."  🚀        ║
-╚══════════════════════════════════════════════════════════════╝
-```
+-   📧 devang_sharma2005@zohomail.in
+-   📧 devangsharma944@gmail.com
+-   💼 LinkedIn: https://www.linkedin.com/in/devang-sharma-998322334/
+-   🐙 GitHub: https://github.com/Devang559
 
-</div>
+------------------------------------------------------------------------
+
+::: {align="center"}
+### ⭐ Thanks for visiting my profile!
+
+> *"Turning ideas into scalable, secure software."*
+:::
+

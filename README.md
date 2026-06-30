@@ -166,28 +166,23 @@ Mobile-first code execution engine — run JS, Python, Java, C++ from a terminal
 
 ---
 
-## `$ cat ./contact.sh`
-
-```bash
 #!/bin/bash
 echo "💼 LinkedIn  →  linkedin.com/in/devang-sharma-998322334"
-echo "📧 Email     →  devangsharma14feb@gmail.com"
-echo "🐙 GitHub    →  github.com/Devang559"
-```
+echo "📧 Zoho Mail  →  devang_sharma2005@zohomail.in"
+echo "📧 Gmail      →  devangsharma944@gmail.com"
+echo "🐙 GitHub     →  github.com/Devang559"
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-devang--sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devang-sharma-998322334/)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-devangsharma14feb-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devangsharma14feb@gmail.com)
+[![Zoho Mail](https://img.shields.io/badge/Zoho_Mail-devang__sharma2005@zohomail.in-0088FF?style=for-the-badge&logo=zoho&logoColor=white)](mailto:devang_sharma2005@zohomail.in)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-devangsharma944-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devangsharma944@gmail.com)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Devang559-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Devang559)
 
 </div>
-
----
-
-<div align="center">
 
 ```
 ╔══════════════════════════════════════════════════════════════╗

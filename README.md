@@ -166,29 +166,10 @@ Mobile-first code execution engine — run JS, Python, Java, C++ from a terminal
 
 ---
 <div align="center">
-
-<a href="https://www.linkedin.com/in/devang-sharma-998322334/">
-  <img src="https://img.shields.io/badge/LinkedIn-devang--sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<br/>
-
-<a href="mailto:devang_sharma2005@zohomail.in">
-  <img src="https://img.shields.io/badge/Zoho_Mail-devang__sharma2005@zohomail.in-0088FF?style=for-the-badge&logo=zoho&logoColor=white" />
-</a>
-
-<br/>
-
-<a href="mailto:devangsharma944@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-devangsharma944-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/>
-
-<a href="https://github.com/Devang559">
-  <img src="https://img.shields.io/badge/GitHub-Devang559-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
+💼 LinkedIn  →  linkedin.com/in/devang-sharma-998322334<br>
+📧 Zoho Mail  →  devang_sharma2005@zohomail.in<br>
+📧 Gmail      →  devangsharma944@gmail.com<br>
+🐙 GitHub     →  github.com/Devang559
 </div>
 
 <div align="center">

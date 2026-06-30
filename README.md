@@ -12,7 +12,7 @@
 ![Android](https://img.shields.io/badge/Android_Developer-FF2D78?style=for-the-badge&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA_Enthusiast-FFD700?style=for-the-badge&logoColor=0D1117)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00F5D4&center=true&vCenter=true&width=560&lines=Architecting+Scalable+Backend+Systems;Building+Android+Apps+with+Clean+Architecture;Securing+APIs+with+Spring+Security+%2B+JWT;Solving+DSA+in+Java%2C+One+Problem+at+a+Time)](https://git.io/typing-svg)
+![Profile Views](https://komarev.com/ghpvc/?username=Devang559&style=flat-square&color=00F5D4&label=profile+views)
 
 </div>
 
@@ -164,6 +164,38 @@ Mobile-first code execution engine — run JS, Python, Java, C++ from a terminal
 
 </div>
 
+---
+
+## `$ cat ./contact.sh`
+
+```bash
+#!/bin/bash
+echo "💼 LinkedIn  →  linkedin.com/in/devang-sharma-998322334"
+echo "📧 Email     →  devangsharma14feb@gmail.com"
+echo "🐙 GitHub    →  github.com/Devang559"
+```
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-devang--sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devang-sharma-998322334/)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-devangsharma14feb-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devangsharma14feb@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Devang559-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Devang559)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  "Turning ideas into scalable, secure software."  🚀        ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
 ---
 
 ## `$ cat ./contact.sh`

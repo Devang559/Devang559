@@ -165,14 +165,17 @@ Mobile-first code execution engine — run JS, Python, Java, C++ from a terminal
 </div>
 
 ---
-<div align="center">
-💼 LinkedIn  →  linkedin.com/in/devang-sharma-998322334<br>
-📧 Zoho Mail  →  devang_sharma2005@zohomail.in<br>
-📧 Gmail      →  devangsharma944@gmail.com<br>
-🐙 GitHub     →  github.com/Devang559
-</div>
+<div align="left">
 
-<div align="center">
+```bash
+#!/bin/bash
+echo "💼 LinkedIn  →  linkedin.com/in/devang-sharma-998322334"
+echo "📧 Zoho Mail  →  devang_sharma2005@zohomail.in"
+echo "📧 Gmail      →  devangsharma944@gmail.com"
+echo "🐙 GitHub     →  github.com/Devang559"
+```
+
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-devang--sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devang-sharma-998322334/)
 &nbsp;

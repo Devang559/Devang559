@@ -87,9 +87,8 @@ public class Devang extends Developer {
 ## ` $ cat ./current-work.log`
 
 ```log
-[ACTIVE]   📱  Android apps — Jetpack Compose + MVVM + Clean Architecture
+[ACTIVE]   📱  Android apps — react-native + MVVM + Clean Architecture
 [ACTIVE]   🔐  Secure REST APIs — Spring Boot + JWT + Role-Based Access Control
-[ACTIVE]   ⚡  DSA Grind — LeetCode in Java, daily commits
 [NEXT]     🧩  System Design fundamentals — HLD & LLD
 ```
 

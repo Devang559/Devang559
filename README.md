@@ -18,7 +18,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
 
 ```java
 // Devang.java

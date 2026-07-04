@@ -134,9 +134,9 @@ public class Devang extends Developer {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=devang559&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5A3&icon_color=FF6B35&text_color=8892B0" />
+<img height="160" src="https://github-stats-extended.vercel.app/api?username=devang559&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5A3&icon_color=FF6B35&text_color=8892B0" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devang559&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5A3&text_color=8892B0" />
+<img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=devang559&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5A3&text_color=8892B0" />
 
 <br/>
 

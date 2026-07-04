@@ -6,17 +6,13 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-# Devang Sharma 🌊
+# Devang Sharma ⚽
 
 **`Backend Engineer · Android Developer · DSA Enthusiast`**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=D42E12&center=true&vCenter=true&width=550&lines=Architecting+Scalable+Backend+Systems;Building+Android+Apps+with+Clean+Architecture;Securing+APIs+with+Spring+Security+%2B+JWT;Shipping+Containers+to+the+Cloud;Solving+DSA+in+Java%2C+One+Problem+at+a+Time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00F5A3&center=true&vCenter=true&width=550&lines=Architecting+Scalable+Backend+Systems;Building+Android+Apps+with+Clean+Architecture;Securing+APIs+with+Spring+Security+%2B+JWT;Shipping+Containers+to+the+Cloud+%E2%9A%BD;Solving+DSA+in+Java%2C+One+Problem+at+a+Time)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=devang559&style=flat-square&color=D42E12&label=profile+views" />
-
-&nbsp;
-
-`🇨🇦 🇲🇽 🇺🇸  —  Canada · Mexico · USA 2026`
+<img src="https://komarev.com/ghpvc/?username=devang559&style=flat-square&color=00F5A3&label=profile+views" />
 
 </div>
 
@@ -47,10 +43,10 @@ public class Devang extends Developer {
 
 ## ` $ cat ./matchday-lineup.log`
 
-*A World Cup 2026 squad sheet, developer edition — starting XI on the left, warming up on the bench. Kicked off with the tournament's official ball, the adidas Trionda 🌊.*
+*A World Cup squad sheet, developer edition — starting XI on the left, warming up on the bench.*
 
 ```
-🔴 STARTING XI (core stack)              🔵 ON THE BENCH (up next)
+🟢 STARTING XI (core stack)              🔵 ON THE BENCH (up next)
 ──────────────────────────────           ──────────────────────────────
  1. Java                — Sweeper         12. System Design (HLD/LLD)
  2. Spring Boot          — Midfield        13. Advanced AWS (ECS/EKS)
@@ -62,7 +58,6 @@ public class Devang extends Developer {
  8. CI/CD Pipelines      — Playmaker
 
                🏆 Formation: 4-3-1-2 (Backend-heavy)
-               🌊 Match Ball: adidas Trionda — Official Ball, FIFA World Cup 26™
 ```
 
 ---
@@ -139,13 +134,13 @@ public class Devang extends Developer {
 
 <div align="center">
 
-<img height="160" src="https://github-stats-extended.vercel.app/api?username=devang559&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=D42E12&icon_color=00843D&text_color=8892B0" />
+<img height="160" src="https://github-stats-extended.vercel.app/api?username=devang559&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5A3&icon_color=FF6B35&text_color=8892B0" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=devang559&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=D42E12&text_color=8892B0" />
+<img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=devang559&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5A3&text_color=8892B0" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=devang559&theme=tokyonight&hide_border=true&background=0D1117&ring=D42E12&fire=00843D&currStreakLabel=D42E12" />
+<img src="https://streak-stats.demolab.com?user=devang559&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5A3&fire=FF6B35&currStreakLabel=00F5A3" />
 
 </div>
 
@@ -165,11 +160,11 @@ echo "🐙 GitHub  →  github.com/devang559"
 
 <div align="left">
 
-[![Gmail](https://img.shields.io/badge/Gmail-devangsharma14feb-0D1117?style=flat-square&logo=gmail&logoColor=D42E12)](mailto:devangsharma14feb@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-devangsharma14feb-0D1117?style=flat-square&logo=gmail&logoColor=FF6B35)](mailto:devangsharma14feb@gmail.com)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-devangsharma944-0D1117?style=flat-square&logo=gmail&logoColor=D42E12)](mailto:devangsharma944@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-devangsharma944-0D1117?style=flat-square&logo=gmail&logoColor=FF6B35)](mailto:devangsharma944@gmail.com)
 &nbsp;
-[![Zoho](https://img.shields.io/badge/Zoho-devang__sharma2005-0D1117?style=flat-square&logo=zoho&logoColor=00843D)](mailto:devang_sharma2005@zohomail.in)
+[![Zoho](https://img.shields.io/badge/Zoho-devang__sharma2005-0D1117?style=flat-square&logo=zoho&logoColor=00F5A3)](mailto:devang_sharma2005@zohomail.in)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-devang559-0D1117?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/devang559)
 
@@ -184,8 +179,8 @@ echo "🐙 GitHub  →  github.com/devang559"
 ║   "First, solve the problem. Then, write the code."          ║
 ║                                          — John Johnson      ║
 ║                                                                ║
-║      🌊  90 minutes on the clock. Ship before full         ║
-║          time. No extra time needed. — FIFA World Cup 26™   ║
+║          ⚽  90 minutes on the clock. Ship before          ║
+║              full time. No extra time needed.                ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 

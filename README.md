@@ -140,7 +140,7 @@ public class Devang extends Developer {
 
 <br/>
 
-<img src="https://github-readme-streak-stats.demolab.com?user=devang559&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5A3&fire=FF6B35&currStreakLabel=00F5A3" />
+<img src="https://streak-stats.demolab.com?user=devang559&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5A3&fire=FF6B35&currStreakLabel=00F5A3" />
 
 </div>
 

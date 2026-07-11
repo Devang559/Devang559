@@ -60,12 +60,9 @@ public class Devang extends Developer {
                🏆 Formation: 4-3-1-2 (Backend-heavy)
 ```
 
-<div align="center">
-
-### 🛠 Tech Match Ball
+🛠 Tech Match Ball
 
 <img src="https://skillicons.dev/icons?i=java,spring,react,postgres,mysql,docker,aws,git,github,androidstudio&theme=dark" />
-
 </div>
 
 ---
@@ -142,33 +139,13 @@ public class Devang extends Developer {
 
 <div align="center">
 
-<img height="160" src="https://raw.githubusercontent.com/devang559/devang559/main/profile/stats.svg" />
+<img height="160" src="https://github-stats-extended.vercel.app/api?username=devang559&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5A3&icon_color=FF6B35&text_color=8892B0" />
 &nbsp;&nbsp;
-<img height="160" src="https://raw.githubusercontent.com/devang559/devang559/main/profile/top-langs.svg" />
+<img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=devang559&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5A3&text_color=8892B0" />
 
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=devang559&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5A3&fire=FF6B35&currStreakLabel=00F5A3" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=devang559&theme=tokyonight&no-frame=true&margin-w=8&column=7&bg=0D1117&title=Commits,Stars,PullRequest,Repositories,Followers" />
-
-</div>
-
----
-
-<div align="center">
-
-### 📈 Contribution Snake
-
-<!--START_SECTION:snake-->
-
-<img src="https://raw.githubusercontent.com/devang559/devang559/output/github-contribution-grid-snake-dark.svg" />
-
-<!--END_SECTION:snake-->
-
-<sub>⚡ animated snake eats your contribution graph — requires a one-time workflow setup below. It's blank until then, that's expected.</sub>
 
 </div>
 

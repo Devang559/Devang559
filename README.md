@@ -1,11 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00F5A3,100:0D1117&height=180&section=header&text=DEVANG%20SHARMA&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20·%20Android%20Developer%20·%20DSA%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/>
-
-</div>
-
-<div align="center">
-
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║  ~/devang-sharma  ❯ whoami                                   ║
@@ -19,12 +13,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00F5A3&center=true&vCenter=true&width=550&lines=Architecting+Scalable+Backend+Systems;Building+Android+Apps+with+Clean+Architecture;Securing+APIs+with+Spring+Security+%2B+JWT;Shipping+Containers+to+the+Cloud+%E2%9A%BD;Solving+DSA+in+Java%2C+One+Problem+at+a+Time)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=devang559&style=flat-square&color=00F5A3&label=profile+views" />
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&width=1000" width="100%"/>
 
 </div>
 
@@ -154,9 +142,9 @@ public class Devang extends Developer {
 
 <div align="center">
 
-<img height="160" src="https://github-stats-extended.vercel.app/api?username=devang559&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5A3&icon_color=FF6B35&text_color=8892B0" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=devang559&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5A3&icon_color=FF6B35&text_color=8892B0" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=devang559&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5A3&text_color=8892B0" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devang559&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5A3&text_color=8892B0" />
 
 <br/>
 
@@ -180,7 +168,7 @@ public class Devang extends Developer {
 
 <!--END_SECTION:snake-->
 
-<sub>⚡ animated snake eats your contribution graph — set up in 2 minutes via <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action, generates the SVG above automatically on every push</sub>
+<sub>⚡ animated snake eats your contribution graph — requires a one-time workflow setup below. It's blank until then, that's expected.</sub>
 
 </div>
 

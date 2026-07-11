@@ -142,9 +142,9 @@ public class Devang extends Developer {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=devang559&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5A3&icon_color=FF6B35&text_color=8892B0" />
+<img height="160" src="https://raw.githubusercontent.com/devang559/devang559/main/profile/stats.svg" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devang559&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5A3&text_color=8892B0" />
+<img height="160" src="https://raw.githubusercontent.com/devang559/devang559/main/profile/top-langs.svg" />
 
 <br/>
 
@@ -215,5 +215,3 @@ echo "🐙 GitHub  →  github.com/devang559"
 *Open to collaborations · Always learning · Building in public* 🏆
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00F5A3,100:0D1117&height=120&section=footer" width="100%"/>

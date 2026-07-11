@@ -59,11 +59,10 @@ public class Devang extends Developer {
 
                🏆 Formation: 4-3-1-2 (Backend-heavy)
 ```
-<div align="center">
-🛠 Tech Match Ball
 
+🛠 Tech Match Ball
 <img src="https://skillicons.dev/icons?i=java,spring,react,postgres,mysql,docker,aws,git,github,androidstudio&theme=dark" />
-</div>
+
 
 ---
 

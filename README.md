@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00F5A3,100:0D1117&height=180&section=header&text=DEVANG%20SHARMA&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20·%20Android%20Developer%20·%20DSA%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/>
+
+</div>
+
+<div align="center">
+
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║  ~/devang-sharma  ❯ whoami                                   ║
@@ -13,6 +19,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00F5A3&center=true&vCenter=true&width=550&lines=Architecting+Scalable+Backend+Systems;Building+Android+Apps+with+Clean+Architecture;Securing+APIs+with+Spring+Security+%2B+JWT;Shipping+Containers+to+the+Cloud+%E2%9A%BD;Solving+DSA+in+Java%2C+One+Problem+at+a+Time)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=devang559&style=flat-square&color=00F5A3&label=profile+views" />
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2&width=1000" width="100%"/>
 
 </div>
 
@@ -59,6 +71,14 @@ public class Devang extends Developer {
 
                🏆 Formation: 4-3-1-2 (Backend-heavy)
 ```
+
+<div align="center">
+
+### 🛠 Tech Match Ball
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,postgres,mysql,docker,aws,git,github,androidstudio&theme=dark" />
+
+</div>
 
 ---
 
@@ -142,6 +162,26 @@ public class Devang extends Developer {
 
 <img src="https://streak-stats.demolab.com?user=devang559&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5A3&fire=FF6B35&currStreakLabel=00F5A3" />
 
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=devang559&theme=tokyonight&no-frame=true&margin-w=8&column=7&bg=0D1117&title=Commits,Stars,PullRequest,Repositories,Followers" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 📈 Contribution Snake
+
+<!--START_SECTION:snake-->
+
+<img src="https://raw.githubusercontent.com/devang559/devang559/output/github-contribution-grid-snake-dark.svg" />
+
+<!--END_SECTION:snake-->
+
+<sub>⚡ animated snake eats your contribution graph — set up in 2 minutes via <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action, generates the SVG above automatically on every push</sub>
+
 </div>
 
 ---
@@ -187,3 +227,5 @@ echo "🐙 GitHub  →  github.com/devang559"
 *Open to collaborations · Always learning · Building in public* 🏆
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00F5A3,100:0D1117&height=120&section=footer" width="100%"/>

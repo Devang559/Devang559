@@ -1,0 +1,41 @@
+name: update readme stats cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"     # runs once a day
+  push:
+    branches:
+      - main                # runs once when you push, so cards appear immediately
+  workflow_dispatch:        # lets you trigger it manually from the Actions tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=devang559&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5A3&icon_color=FF6B35&text_color=8892B0
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=devang559&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5A3&text_color=8892B0
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile/stats.svg profile/top-langs.svg
+          git diff --staged --quiet || git commit -m "chore: update readme stats cards"
+          git push

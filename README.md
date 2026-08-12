@@ -10,7 +10,7 @@
 
 **`Backend Engineer · Android Developer · DSA Enthusiast`**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00F5A3&center=true&vCenter=true&width=550&lines=Architecting+Scalable+Backend+Systems;Building+Android+Apps+with+Clean+Architecture;Securing+APIs+with+Spring+Security+%2B+JWT;Shipping+Containers+to+the+Cloud+%E2%9A%BD;Solving+DSA+in+Java%2C+One+Problem+at+a+Time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00F5A3&center=true&vCenter=true&width=550&lines=Architecting+Scalable+Backend+Systems;Building+Android+Apps+with+Clean+Architecture;Securing+APIs+with+Spring+Security+%2B+JWT;Shipping+Containers+to+the+Cloud+%E2%9A%BD;Running+LLMs+Locally+with+Ollama;Solving+DSA+in+Java%2C+One+Problem+at+a+Time)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=devang559&style=flat-square&color=00F5A3&label=profile+views" />
 
@@ -50,8 +50,8 @@ public class Devang extends Developer {
 ──────────────────────────────           ──────────────────────────────
  1. Java                — Sweeper         12. System Design (HLD/LLD)
  2. Spring Boot          — Midfield        13. Advanced AWS (ECS/EKS)
- 3. Spring Security/JWT  — Defense
- 4. React Native         — Winger
+ 3. Spring Security/JWT  — Defense         14. Supabase (BaaS experiments)
+ 4. React Native         — Winger          15. Ollama (local LLM inference)
  5. PostgreSQL/MySQL     — Anchor
  6. Docker               — Striker
  7. AWS EC2              — Striker
@@ -63,9 +63,16 @@ public class Devang extends Developer {
 🛠 Tech Match Ball
     </div>
 
-    
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,react,postgres,mysql,docker,aws,git,github,androidstudio&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,react,postgres,mysql,supabase,docker,aws,git,github,androidstudio&theme=dark" />
+</div>
+
+<div align="center">
+
+[![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)](https://ollama.com)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)](https://aws.amazon.com)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com)
+
 </div>
 
 ---
@@ -74,7 +81,7 @@ public class Devang extends Developer {
 
 <table>
 <tr>
-<td valign="top" width="25%">
+<td valign="top" width="20%">
 
 ### 🗣 Languages
 ```
@@ -86,7 +93,7 @@ public class Devang extends Developer {
 ```
 
 </td>
-<td valign="top" width="25%">
+<td valign="top" width="20%">
 
 ### ⚙️ Backend & Mobile
 ```
@@ -98,17 +105,18 @@ public class Devang extends Developer {
 ```
 
 </td>
-<td valign="top" width="25%">
+<td valign="top" width="20%">
 
-### 🗄 Databases
+### 🗄 Databases & BaaS
 ```
 ├── MySQL       [production]
 ├── PostgreSQL  [production]
-└── SQL Design  [active]
+├── SQL Design  [active]
+└── Supabase    [exploring]
 ```
 
 </td>
-<td valign="top" width="25%">
+<td valign="top" width="20%">
 
 ### ☁️ Cloud & DevOps
 ```
@@ -119,10 +127,21 @@ public class Devang extends Developer {
 ```
 
 </td>
+<td valign="top" width="20%">
+
+### 🤖 AI / LLM Tooling
+```
+├── Ollama (local LLMs) [exploring]
+├── Prompt Engineering  [hobby]
+└── OCI AI Foundations  [certified]
+```
+
+</td>
 </tr>
 </table>
 
 > `[exposure]` = working knowledge — can deploy, containerize, and set up a pipeline end-to-end, still leveling up toward production-grade ops.
+> `[exploring]` = actively experimenting, not yet shipped to production.
 
 ---
 
@@ -134,6 +153,8 @@ public class Devang extends Developer {
 [ACTIVE]   ☁️  Deploying backend apps on AWS EC2 with Docker containers
 [NEXT]     🔁  Building out CI/CD pipelines end-to-end
 [NEXT]     🧩  System Design fundamentals — HLD & LLD
+[NEXT]     🗄️  Supabase as a lightweight BaaS alternative for side projects
+[NEXT]     🤖  Running and experimenting with local LLMs via Ollama
 ```
 
 ---

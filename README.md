@@ -13,6 +13,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00F5A3&center=true&vCenter=true&width=550&lines=Architecting+Scalable+Backend+Systems;Building+Android+Apps+with+Clean+Architecture;Securing+APIs+with+Spring+Security+%2B+JWT;Shipping+Containers+to+the+Cloud+%E2%9A%BD;Running+LLMs+Locally+with+Ollama;Solving+DSA+in+Java%2C+One+Problem+at+a+Time)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=devang559&style=flat-square&color=00F5A3&label=profile+views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/devang559?style=flat-square&color=00F5A3&label=followers" />
 
 </div>
 
@@ -59,9 +61,10 @@ public class Devang extends Developer {
 
                🏆 Formation: 4-3-1-2 (Backend-heavy)
 ```
+
 <div align="center">
 🛠 Tech Match Ball
-    </div>
+</div>
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=java,spring,react,postgres,mysql,supabase,docker,aws,git,github,androidstudio&theme=dark" />
@@ -145,6 +148,41 @@ public class Devang extends Developer {
 
 ---
 
+## ` $ ls -la ./featured-projects`
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**📱 CodeRunner**
+Mobile code editor & runner — React Native + Spring Boot backend executing JS, Python, Java, and C++ from a terminal-style console UI.
+
+`React Native` `Spring Boot` `Docker`
+
+</td>
+<td valign="top" width="33%">
+
+**🧮 SolveIt**
+Multimodal AI math canvas — draw a problem, get a worked solution, powered by Gemini 1.5 Flash with a Skia-rendered canvas.
+
+`Gemini 1.5 Flash` `Skia` `Reanimated 3` `Zustand`
+
+</td>
+<td valign="top" width="33%">
+
+**📚 AI Reading & Literacy Platform**
+AI-assisted reading companion built on the same multimodal stack, focused on literacy support.
+
+`Gemini 1.5 Flash` `Skia` `Reanimated 3` `Zustand`
+
+</td>
+</tr>
+</table>
+
+> 🔗 Add each project's repo link here (`[CodeRunner](https://github.com/devang559/coderunner)` etc.) so the cards click through.
+
+---
+
 ## ` $ cat ./current-work.log`
 
 ```log
@@ -171,6 +209,10 @@ public class Devang extends Developer {
 
 <img src="https://streak-stats.demolab.com?user=devang559&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5A3&fire=FF6B35&currStreakLabel=00F5A3" />
 
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=devang559&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8&column=6" />
+
 </div>
 
 ---
@@ -181,9 +223,7 @@ public class Devang extends Developer {
 #!/bin/bash
 # Preferred ways to reach Devang
 
-echo "📧 Gmail   →  devangsharma14feb@gmail.com"
-echo "📧 Gmail   →  devangsharma944@gmail.com"
-echo "📧 Zoho    →  devang_sharma2005@zohomail.in"
+echo "📧 Email   →  devangsharma14feb@gmail.com"
 echo "🐙 GitHub  →  github.com/devang559"
 ```
 
@@ -191,11 +231,9 @@ echo "🐙 GitHub  →  github.com/devang559"
 
 [![Gmail](https://img.shields.io/badge/Gmail-devangsharma14feb-0D1117?style=flat-square&logo=gmail&logoColor=FF6B35)](mailto:devangsharma14feb@gmail.com)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-devangsharma944-0D1117?style=flat-square&logo=gmail&logoColor=FF6B35)](mailto:devangsharma944@gmail.com)
-&nbsp;
-[![Zoho](https://img.shields.io/badge/Zoho-devang__sharma2005-0D1117?style=flat-square&logo=zoho&logoColor=00F5A3)](mailto:devang_sharma2005@zohomail.in)
-&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-devang559-0D1117?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/devang559)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOUR-HANDLE)
 
 </div>
 

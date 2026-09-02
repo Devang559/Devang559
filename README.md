@@ -151,10 +151,10 @@ public class Devang extends Developer {
 [ACTIVE]   📱  Android apps — react-native + MVVM + Clean Architecture
 [ACTIVE]   🔐  Secure REST APIs — Spring Boot + JWT + Role-Based Access Control
 [ACTIVE]   ☁️  Deploying backend apps on AWS EC2 with Docker containers
-[NEXT]     🔁  Building out CI/CD pipelines end-to-end
-[NEXT]     🧩  System Design fundamentals — HLD & LLD
-[NEXT]     🗄️  Supabase as a lightweight BaaS alternative for side projects
-[NEXT]     🤖  Running and experimenting with local LLMs via Ollama
+[IN-PROGRESS]     🔁  Building out CI/CD pipelines end-to-end
+[IN-PROGRESS]     🧩  System Design fundamentals — HLD & LLD
+[IN-PROGRESS]     🗄️  Supabase as a lightweight BaaS alternative for side projects
+[IN-PROGRESS]     🤖  Running and experimenting with local LLMs via Ollama
 ```
 
 ---

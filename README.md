@@ -8,7 +8,7 @@
 
 # Devang Sharma ⚽
 
-**`Backend Engineer · Android Developer · DSA Enthusiast`**
+**`Backend Engineer · Android Developer · DSA  Microservice-Enthusiast`**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00F5A3&center=true&vCenter=true&width=550&lines=Architecting+Scalable+Backend+Systems;Building+Android+Apps+with+Clean+Architecture;Securing+APIs+with+Spring+Security+%2B+JWT;Shipping+Containers+to+the+Cloud+%E2%9A%BD;Running+LLMs+Locally+with+Ollama;Solving+DSA+in+Java%2C+One+Problem+at+a+Time)](https://git.io/typing-svg)
 

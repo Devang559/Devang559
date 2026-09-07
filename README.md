@@ -14,6 +14,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=devang559&style=flat-square&color=00F5A3&label=profile+views" />
 
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="90">
+
 </div>
 
 ---
@@ -59,6 +61,15 @@ public class Devang extends Developer {
 
                🏆 Formation: 4-3-1-2 (Backend-heavy)
 ```
+
+<div align="center">
+
+*Pixel warm-up before kickoff* 🕹️
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="220">
+
+</div>
+
 <div align="center">
 🛠 Tech Match Ball
     </div>
@@ -214,5 +225,7 @@ echo "🐙 GitHub  →  github.com/devang559"
 ```
 
 *Open to collaborations · Always learning · Building in public* 🏆
+
+<img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="70">
 
 </div>
